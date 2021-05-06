@@ -1,0 +1,159 @@
+[
+    {
+        "shift": "Evening",
+        "engineer_name": {
+            "name": "MITHU"
+        },
+        "Fault_description": "Fault Description: mithu even",
+        "alarm": [
+            {
+                "alarm_name": "N7 signalinglink down1",
+                "alarm_type": "Major",
+                "alarm_description": "GP SINGLALINGLINK DOWN ISSUE, TG#1"
+            },
+            {
+                "alarm_name": "R_LOS",
+                "alarm_type": "CIRTICAL",
+                "alarm_description": "GP LINK DOWN MNH TO KHAJA TOWER"
+            },
+            {
+                "alarm_name": "MTP LINK FAIL",
+                "alarm_type": "Major",
+                "alarm_description": "MTP LINK FAIL IN UMG2 OF BL"
+            },
+            {
+                "alarm_name": "Lease E1 (DHK-CTG) Down",
+                "alarm_type": "CIRTICAL",
+                "alarm_description": "BL leased E1"
+            }
+        ],
+        "dept": [
+            {
+                "dept": "CORE"
+            },
+            {
+                "dept": "TRANSMISSION"
+            },
+            {
+                "dept": "DATACOM"
+            },
+            {
+                "dept": "POWER"
+            }
+        ],
+        "action_taken": "MAIL TO ALL",
+        "message_body": "NO impact",
+        "escalation_to": [
+            {
+                "name": "SOROWAR",
+                "designation": "Manager(CORE)"
+            },
+            {
+                "name": "Shameem",
+                "designation": "Manager(Transmission)"
+            },
+            {
+                "name": "Russel",
+                "designation": "Manager( Datacom)"
+            },
+            {
+                "name": "Arif Boss",
+                "designation": "COO&CTO"
+            }
+        ],
+        "have_sms_send": true,
+        "created_at": "2021-04-29 11:19:11"
+    },
+
+
+
+
+
+    {
+        "shift": "Morning",
+        "engineer_name": {
+            "name": "Faiaz"
+        },
+        "Fault_description": "Fault Description:",
+        "alarm": [
+            {
+                "alarm_name": "N7 signalinglink down2",
+                "alarm_type": "Major",
+                "alarm_description": "GP SINGLALINGLINK DOWN ISSUE, TG#1xxx"
+            }
+        ],
+        "dept": [
+            {
+                "dept": "CORE"
+            }
+        ],
+        "action_taken": "eMAIL TO ALL",
+        "message_body": "mail to all concerned dept",
+        "escalation_to": [
+            {
+                "name": "SOROWAR",
+                "designation": "Manager(CORE)"
+            },
+            {
+                "name": "Shameem",
+                "designation": "Manager(Transmission)"
+            },
+            {
+                "name": "Russel",
+                "designation": "Manager( Datacom)"
+            },
+            {
+                "name": "Arif Boss",
+                "designation": "COO&CTO"
+            }
+        ],
+        "have_sms_send": true,
+        "created_at": "2021-04-29 11:17:56"
+    },
+    {
+        "shift": "Morning",
+        "engineer_name": {
+            "name": "Tamanna"
+        },
+        "Fault_description": "Fault Description:",
+        "alarm": [
+            {
+                "alarm_name": "N7 signalinglink down3",
+                "alarm_type": "Major",
+                "alarm_description": "GP SINGLALINGLINK DOWN ISSUE, TG#1xxx"
+            },
+            {
+                "alarm_name": "N7 signalinglink down3",
+                "alarm_type": "Major",
+                "alarm_description": "GP SINGLALINGLINK DOWN ISSUE, TG#1xxxxxxxx"
+            }
+        ],
+        "dept": [
+            {
+                "dept": "CORE"
+            }
+        ],
+        "action_taken": "sms and phone call to concern",
+        "message_body": "mail to all concerned dept",
+        "escalation_to": [
+            {
+                "name": "SOROWAR",
+                "designation": "Manager(CORE)"
+            },
+            {
+                "name": "Shameem",
+                "designation": "Manager(Transmission)"
+            },
+            {
+                "name": "Russel",
+                "designation": "Manager( Datacom)"
+            },
+            {
+                "name": "Arif Boss",
+                "designation": "COO&CTO"
+            }
+        ],
+        "have_sms_send": true,
+        "created_at": "2021-04-29 11:17:56"
+    }
+]

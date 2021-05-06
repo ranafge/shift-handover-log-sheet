@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headingStyle{
+    background-color: purple;
+}
+
+.card-body{
+    line-height: 20px;
+}
+
+.card{
+    background: #ffda77;
+    box-shadow: 2px 4px 4px green;
+    width: 395px;
+    display: inline-block;
+    margin: 5px;
+    height: 395px;
+}
+
+.card-title-shift{
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+  
+
+   
+}
+
+.cardTitle{
+ 
+    margin-bottom: 1px;
+   
+}
+
+.cardDesc{
+    text-align: justify;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+
+
+.cardFooter{
+    text-align: center;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+.inputCheckbox{
+    text-align: center;
+    font-size: bold;
+    width: 18px;
+    height:18px;
+    margin-left: 5px;
+    font-style: normal;
+    ;
+}
+
+.myData{
+    text-align: justify;
+    text-transform: capitalize;
+    margin-left: 35px;
+    font-weight: bolder;
+    padding-right: 10px;
+
+}
