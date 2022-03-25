@@ -5,4 +5,4 @@ This is created for the NOC shift duty engineer who are used to shift activitive
 
 ## Images of created post and display output
 
-/assets/images/electrocat.png
+C:\Users\Rana\Documents\Django projects\alarm monitoring\shift-handover-log-sheet\shift handhover pic\posting data.png
